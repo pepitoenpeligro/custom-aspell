@@ -24,6 +24,12 @@ echo 'this is what wtf' | docker run -e ASPELL_LANG=en -e ASPELL_MODE=tex -e ASP
 ```
 
 
+## Demo
+
+![](demo/demo_en.gif)
+
+![](demo/demo_es.gif)
+
 ### Supported Languages
 
 | **Language ISO 639-1:2002** |     **Language**     |
